@@ -38,7 +38,3 @@ Un'applicazione web leggera in PHP progettata per dimostrare l'estrazione, il fi
 
 4. Apri il browser e naviga all'indirizzo dello script.
 5. Inserisci i criteri di ricerca nel modulo (ad esempio "Matematica" nella Materia) e clicca su "Filtra" per visualizzare i risultati e la media calcolata.
-
-
-
-
