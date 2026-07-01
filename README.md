@@ -41,6 +41,4 @@ Un'applicazione web leggera in PHP progettata per dimostrare l'estrazione, il fi
 
 
 
----
 
-Hai intenzione di espandere questo progetto (ad esempio caricando il CSV su un vero database MySQL per gestire query più complesse), oppure consideri questa esercitazione conclusa?
